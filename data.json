@@ -1,0 +1,77 @@
+[
+  {
+    "id": 5424769824,
+    "state": "finished",
+    "name": "sardorbek",
+    "surname": "kozimjononv",
+    "school": "10-maktab",
+    "class": "2-sinf",
+    "subject": "it",
+    "userId": 1,
+    "score": 20
+  },
+  {
+    "id": 6197641897,
+    "state": "finished",
+    "surname": "Dndnd",
+    "school": "Jsjsjjd",
+    "class": "It",
+    "subject": "it",
+    "userId": 2
+  },
+  {
+    "id": 5424769824,
+    "state": "finished",
+    "name": "dasdasd",
+    "surname": "dasda",
+    "school": "dsad",
+    "class": "dqwqdas",
+    "subject": "it",
+    "userId": 3,
+    "score": 23
+  },
+  {
+    "id": 5424769824,
+    "state": "finished",
+    "name": "ali",
+    "surname": "asdad",
+    "school": "adsadsa",
+    "class": "qqwdqda",
+    "subject": "english",
+    "userId": 4,
+    "score": 77
+  },
+  {
+    "id": 5424769824,
+    "state": "finished",
+    "name": "kozimjon",
+    "surname": "sardorbekov",
+    "school": "3-maktab",
+    "class": "4-sinf",
+    "subject": "russian",
+    "userId": 5,
+    "score": 99
+  },
+  {
+    "id": 6036904362,
+    "state": "finished",
+    "name": "sardorbek",
+    "surname": "kozimjononv",
+    "school": "3-maktab",
+    "class": "4-sinf",
+    "subject": "it",
+    "userId": 6,
+    "score": 44
+  },
+  {
+    "id": 1785322019,
+    "state": "finished",
+    "name": "Zarnigor",
+    "surname": "Qobulova",
+    "school": "4-maktab",
+    "class": "5",
+    "subject": "english",
+    "userId": 7,
+    "score": 34
+  }
+]
