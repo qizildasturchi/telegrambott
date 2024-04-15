@@ -39,7 +39,7 @@
     "class": "qqwdqda",
     "subject": "english",
     "userId": 4,
-    "score": 77
+    "score": 24
   },
   {
     "id": 5424769824,
@@ -73,5 +73,26 @@
     "subject": "english",
     "userId": 7,
     "score": 34
+  },
+  {
+    "id": 5424769824,
+    "state": "finished",
+    "name": "muhammad ali",
+    "surname": "aliyev",
+    "school": "10-maktab",
+    "class": "3-sinf",
+    "subject": "russian",
+    "userId": 8
+  },
+  {
+    "id": 5424769824,
+    "state": "finished",
+    "name": "Abdullo",
+    "surname": "Masharipov",
+    "school": "26-maktab",
+    "class": "5-sinf",
+    "subject": "russian",
+    "userId": 9,
+    "score": 77
   }
 ]

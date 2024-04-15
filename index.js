@@ -21,8 +21,8 @@ bot.onText(/\/start/, async (msg) => {
     await bot.sendMessage(chatId, "Iltimos, quyidagi kanallarga a'zo bo'ling:", {
         reply_markup: JSON.stringify({
             inline_keyboard: [
-                [{ text: "1-kanalga a'zo bo'ling", url: 'https://t.me/channel1' }],
-                [{ text: "2-kanalga a'zo bo'ling", url: 'https://t.me/channel2' }],
+                [{ text: "1-kanalga a'zo bo'ling", url: 'https://t.me/washington_school1' }],
+                [{ text: "2-kanalga a'zo bo'ling", url: 'https://t.me/washington_school_ws' }],
                 [{ text: "A'zo bo'ldim", callback_data: 'subscription_check' }]
             ]
         })
